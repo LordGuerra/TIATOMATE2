@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 100px;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  height: 100% vh;
+  background-color: black;
+}
+
+.heroe {
+  background-color: #e56353;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+.header {
+  margin: 0rem;
+  background-color: #babab8;
+}
+
+.logo img {
+  width: 20%;
+}
+
+/*# sourceMappingURL=style.ccs.map */
